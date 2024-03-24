@@ -1,0 +1,7 @@
+variable,value,set_time,set_by
+diagnostics.allow_i_s_tables,OFF,"2024-03-14 11:21:28",NULL
+diagnostics.include_raw,OFF,"2024-03-14 11:21:28",NULL
+ps_thread_trx_info.max_length,65535,"2024-03-14 11:21:28",NULL
+statement_performance_analyzer.limit,100,"2024-03-14 11:21:28",NULL
+statement_performance_analyzer.view,NULL,"2024-03-14 11:21:28",NULL
+statement_truncate_len,64,"2024-03-14 11:21:28",NULL
